@@ -1,0 +1,8 @@
+{
+  "name": "gas-now",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "a4dd33b4"
+}
